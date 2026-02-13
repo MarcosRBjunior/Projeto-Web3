@@ -1,5 +1,5 @@
 
-# Projeto DApp de Votação On-Chain (Webbb3)
+# Projeto de Votação On-Chain (Webbb3)
 
 Este projeto é uma aplicação descentralizada (DApp) desenvolvida com React, Vite e a biblioteca Wagmi para interação com contratos inteligentes na blockchain Ethereum.
 
